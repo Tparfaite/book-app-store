@@ -23,7 +23,7 @@ This app has to parts: The first part is where you add a book title, author, pag
 #### TParfaite
 <https://github.com/Tparfaite/book-app-store/edit/main/README.md>
 
-<parfaitetwagira@gmail.com>
+<[parfaitetwagira@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)>
 
 
 
